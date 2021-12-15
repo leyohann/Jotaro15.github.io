@@ -240,10 +240,10 @@ body {
 .text {
   position: absolute;
   width: 450px;
-  left: 50%;
+  left: 55%;
   margin-left: -225px;
   height: 40px;
-  top: 50%;
+  top: 10%;
   margin-top: -20px;
 }
 
@@ -257,7 +257,6 @@ p {
   position: absolute;
   _width: 230px;
   opacity: 0;
-  top: 300px;
 }
 
 .letter {
@@ -298,3 +297,8 @@ p {
   color: #a47256;
 }
 
+.ptit_z {
+  position : absolute;
+  left: 15px;
+  top: 15px;
+}
